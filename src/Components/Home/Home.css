@@ -1,0 +1,25 @@
+.searchBarContainer{
+    display: flex;
+    justify-content: center;
+    
+    margin-bottom: 70px;
+}
+.searchBarContainer input{
+    max-width: 500px;
+    margin-top: 10px;
+    border-radius: 15px;
+    border: none;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, .4);
+     
+}
+ 
+.searchBarContainer span{
+    color: white;
+    background-color: blue;
+}
+.alert{
+    margin: auto;
+    border: none;
+ 
+}
+ 
